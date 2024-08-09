@@ -1,0 +1,6 @@
+@MoathAPI_HostAddress = http://localhost:5233
+
+GET {{MoathAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
